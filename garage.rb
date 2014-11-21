@@ -11,7 +11,6 @@ class Garage
 		else
 			@@parked_vehicles.each do |vehicle|
 				puts vehicle.mark_and_model
-			end
 		end
 	end
 
