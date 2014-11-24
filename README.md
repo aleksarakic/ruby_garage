@@ -1,1 +1,1 @@
-Simple, plain Ruby app that simulates garage. You can remove or add vehicle to it.
+Simple, pure Ruby app that simulates garage. You can park out or park in cars and bikes in garage.
